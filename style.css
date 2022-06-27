@@ -3,8 +3,17 @@ section{
     height: 80vh;
 }
 
+h1{
+    font-size: 120px;
+}
+
+
 .changeNum{
     background-color: #5259d6;
+}
+
+#number{
+    font-size: 120px;
 }
 
 .scroll_page{
